@@ -90,7 +90,7 @@ Result: 113,368 rows → aggregated to 611 daily revenue records.
 
 ### Monthly Revenue Trend of Top 3 Categories
 
-![Category Trends](visuals/Monthly%20Revenue%20Trend%20of%20Top%203%20Cate....png)
+![Category Trends](visuals/Monthly%20Revenue%20Trend%20of%20Top%203%20Categories.png)
 
 > health_beauty shows most consistent growth. computers_accessories shows extreme volatility. bed_bath_table shows seasonal spikes.
 
